@@ -1,0 +1,9 @@
+{
+	"only": [
+		"**/packages/shared/components/**",
+		"**/packages/vite-project/src/**"
+	],
+	"ignore": ["**/node_modules/**"],
+
+	"plugins": ["babel-plugin-macros", "babel-plugin-styled-components"]
+}
