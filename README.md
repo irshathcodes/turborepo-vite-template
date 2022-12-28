@@ -22,7 +22,7 @@ This Turborepo has some additional tools already setup for you:
 Run the following command:
 
 ```sh
-npx degit irshathcodes/turborepo-vite-template
+npx degit irshathcodes/turborepo-vite-template turborepo-starter
 cd turborepo-vite-template
 pnpm install
 pnpm run myvite
