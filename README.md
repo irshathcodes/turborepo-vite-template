@@ -25,7 +25,7 @@ Run the following command:
 
 ```sh
 npx degit irshathcodes/turborepo-vite-template turborepo-starter
-cd turborepo-vite-template
+cd turborepo-starter
 pnpm install
 pnpm run myvite
 ```
