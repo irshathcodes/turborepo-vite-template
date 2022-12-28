@@ -19,6 +19,8 @@ This Turborepo has some additional tools already setup for you:
 
 ## Using this example
 
+Make sure you installed [pnpm](https://pnpm.io/)
+
 Run the following command:
 
 ```sh
